@@ -3,11 +3,11 @@ Month long hackathon for Booz allen Hamilton to help the Chesapeake Bay Watershe
 
 # Contributors:
 
-Bibor Szabo [szabo.bibor@gmail.com]
-Mike Blow
-Sara Soueidan [saraesoueidan@gmail.com]
-Greg Dye [gregcdye@gmail.com]
-Clay Carson [clayton.pa.carson@gmail.com]
+Bibor Szabo [szabo.bibor@gmail.com],
+Mike Blow,
+Sara Soueidan [saraesoueidan@gmail.com],
+Greg Dye [gregcdye@gmail.com],
+Clay Carson [clayton.pa.carson@gmail.com],
 Song May [mei0717@gmail.com]
 
 
