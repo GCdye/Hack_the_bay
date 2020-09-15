@@ -78,7 +78,7 @@ The model predicts whether or not the measured amount of total phosphorus is dan
 
 [Data cleaning](./01_WQ_Cleaning.ipynb)<br>
 [Data transformation](./02_WQ_Transformation.ipynb)<br>
-[Random Forest](./03_Model.ipynb)
+[Random Forest](./03_Model.ipynb)<br>
 [Presentation](https://docs.google.com/presentation/d/1VRkR6QItJFE4X_mQ_-9SEt9KG4hi2e0wdtYizV-QUO8/edit#slide=id.g98a1113318_0_268)
 
 
