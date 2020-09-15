@@ -1,13 +1,13 @@
 # Modeling Toxic Phosphorus Levels on the Potomac River
-### (Hack_the_Bay)[https://hack-the-bay.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio]
+[Hack_the_Bay](https://hack-the-bay.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio)
 #### Cheaspeake Bay Water Quality Hackthon 
 **organizded by Booz Allen Hamilton**
 
 ### Contributors:
 
-(Clay Carson)[clayton.pa.carson@gmail.com] <br>
-(Bibor Szabo)[szabo.bibor@gmail.com] <br>
-(Mike Blow)[michaelblow@gmail.com]
+[Clay Carson](clayton.pa.carson@gmail.com) <br>
+[Bibor Szabo](szabo.bibor@gmail.com) <br>
+[Mike Blow](michaelblow@gmail.com)
 
 ## Problem Statement
 
@@ -20,7 +20,7 @@ The first step towards controlling the total phosphorus amount in the water body
 
 
 ## Data
-The original dataset contained water quality data collected in the entire Chesapeake Bay and Watershed by both the (CBP)[https://www.chesapeakebay.net/] and the (CMC)[https://www.chesapeakemonitoringcoop.org/]. <br>
+The original dataset contained water quality data collected in the entire Chesapeake Bay and Watershed by both the [CBP](https://www.chesapeakebay.net/) and the [CMC](https://www.chesapeakemonitoringcoop.org/). <br>
 Our model runs on the **Potomac River** subset of the original dataset.<br>
 Selection criteria: HUCNAME_ containing 'Potomac'.
 
@@ -76,17 +76,17 @@ The model predicts whether or not the measured amount of total phosphorus is dan
 
 ## Table of Contents
 
-(Data cleaning)[./01_WQ_Cleaning.ipynb]<br>
-(Data transformation)[./02_WQ_Transformation.ipynb]<br>
-(Random Forest)[./03_Model.ipynb]
-(Presentation)[https://docs.google.com/presentation/d/1VRkR6QItJFE4X_mQ_-9SEt9KG4hi2e0wdtYizV-QUO8/edit#slide=id.g98a1113318_0_268]
+[Data cleaning](./01_WQ_Cleaning.ipynb)<br>
+[Data transformation](./02_WQ_Transformation.ipynb)<br>
+[Random Forest](./03_Model.ipynb)
+[Presentation](https://docs.google.com/presentation/d/1VRkR6QItJFE4X_mQ_-9SEt9KG4hi2e0wdtYizV-QUO8/edit#slide=id.g98a1113318_0_268)
 
 
 ## Resources:
-(Phosphates in the Environment - Water Research Center)[https://water-research.net/index.php/phosphates]<br>
-(Indicator: Phosphorus - U.S. Environmental Protection Agency)[https://www.epa.gov/national-aquatic-resource-surveys/indicators-phosphorus]<br>
-(Nutrient Pollution - U.S. Environmental Protection Agency)[https://www.epa.gov/nutrientpollution/issue#:~:text=Nitrogen%20and%20phosphorus%20are%20nutrients,organisms%20that%20live%20in%20water.]<br>
-(Nutrients: Phosphorus, - Minnesota Pollution Control Agency)[https://www.pca.state.mn.us/sites/default/files/wq-iw3-22.pdf]<br>
-(Harmful Algal Bloom - CDC)[https://www.cdc.gov/habs/general.html]<br>
-(Satellite Imagery Can Track Harmful Algal Blooms- USGS)[https://www.usgs.gov/news/satellite-imagery-can-track-harmful-algal-blooms#:~:text=A%20joint%20collaboration%20between%20EPA,algal%20pigments%20in%20the%20water.]
+[Phosphates in the Environment - Water Research Center](https://water-research.net/index.php/phosphates)<br>
+[Indicator: Phosphorus - U.S. Environmental Protection Agency](https://www.epa.gov/national-aquatic-resource-surveys/indicators-phosphorus)<br>
+[Nutrient Pollution - U.S. Environmental Protection Agency](https://www.epa.gov/nutrientpollution/issue#:~:text=Nitrogen%20and%20phosphorus%20are%20nutrients,organisms%20that%20live%20in%20water.)<br>
+[Nutrients: Phosphorus, - Minnesota Pollution Control Agency](https://www.pca.state.mn.us/sites/default/files/wq-iw3-22.pdf)<br>
+[Harmful Algal Bloom - CDC](https://www.cdc.gov/habs/general.html)<br>
+[Satellite Imagery Can Track Harmful Algal Blooms- USGS](https://www.usgs.gov/news/satellite-imagery-can-track-harmful-algal-blooms#:~:text=A%20joint%20collaboration%20between%20EPA,algal%20pigments%20in%20the%20water.)
 
